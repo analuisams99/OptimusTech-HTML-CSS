@@ -4,7 +4,7 @@ Projeto para fixar aprendizado em HTML, CSS e responsividade.
 
 > Projeto construído do evento 7DaysOfCode da Alura.
 
-[🔗 Clique aqui para acessar](https://analuisams99.github.io/OptimusTech-HTML-CSS.github.io/)
+[🔗 Clique aqui para acessar](https://analuisams99.github.io/OptimusTech-HTML-CSS/)
 
 ## O que foi criado
  - Uma página destinada a novas contratações 
